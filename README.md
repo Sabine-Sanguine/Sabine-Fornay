@@ -1,2 +1,3 @@
 # SabineSanguine.github.io
-CV
+
+Where I gonna create a personnal website before put it on a web site hosting.
